@@ -5,5 +5,5 @@
 * 1 - `this` e `bind`
 * 2 - Prototypes
 * 3 - A palavra-chave `new`
-* 4 - __proto__ vs prototype
+* 4 - ___proto___ vs prototype
 * 5 - 
