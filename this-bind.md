@@ -127,6 +127,9 @@ No exemplo acima passamos como parâmetro da função `bind` o objeto __gato__.O
 Portanto será impresso no console `'miau'`.
 
 ## Caso real de uso do `bind`
+Agora que ja entendemos como o bind funciona,você deve estar se perguntado "onde eu consigo utilizar isso,em uma aplicação real?"
+
+Vamos ver um caso real,através de outro exemplo.
 
 Vamos selecionar um botão do nosso HTML e adicionar um evento de click a ele.
 ```
