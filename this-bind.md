@@ -50,7 +50,7 @@ __Ou seja, `this` faz referencia ao contexto no qual ele foi chamado.__ Essa afi
 ### Agora vamos continuar o nosso __Exemplo 1__.
 Vamos criar uma variavél `funcMiar` e atribuir a ela o método `miar` do nosso objeto gato, em seguida executar a `funcMiar` e ver o que será impresso no console.
 
-Sim,em JavaScript é possível atribuir uma função a uma variável,pois JS não é apenas uma linguagem orientada a objetos mas também é uma linguaguem de programação funcional.
+Sim,em JavaScript é possível atribuir uma função a uma variável,pois JS não é apenas uma linguagem orientada a objetos ,mas também é uma linguaguem de programação funcional.
 
 ### Continuação do Exemplo 1
 ```
