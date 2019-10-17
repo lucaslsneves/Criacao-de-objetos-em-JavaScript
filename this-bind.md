@@ -1,5 +1,7 @@
 # This e Bind
+## Por que começar a estudar a criação de objetos com __This__ and __Bind__?
 
+### Porque é de extrema importancia entender 'this' e 'bind' antes de tentar aprender qualquer outra coisa, porque eles são conceitos fundamentais de como objetos são criados em JavaScript. Se você não entender __bind__ , quase nada na criação de objetos com JS fará sentido.
 ## A melhor forma de entender `this` em JavaScript é através de um exemplo:
 
 ### Exemplo 1
@@ -18,6 +20,7 @@ let gato{
 
 gato.miar() // Imprime no console 'miau'
 ```
+
 Até o momento,uma pessoa que veio de uma linguagem orientada a objetos não lerá este código com estranhesa.
 
 O uso de `this` na criação do método `miar`,no exemplo acima,tem  o mesmo sentido do `this` de qualquer linguagem orientada a objetos.
@@ -46,6 +49,8 @@ __Ou seja, `this` faz referencia ao contexto no qual ele foi chamado.__ Essa afi
 
 ### Agora vamos continuar o nosso __Exemplo 1__.
 Vamos criar uma variavél `funcMiar` e atribuir a ela o método `miar` do nosso objeto gato, em seguida executar a `funcMiar` e ver o que será impresso no console.
+
+Sim,em JavaScript é possível atribuir uma função a uma variável,pois JS não é apenas uma linguagem orientada a objetos mas também é uma linguaguem de programação funcional.
 
 ### Continuação do Exemplo 1
 ```
