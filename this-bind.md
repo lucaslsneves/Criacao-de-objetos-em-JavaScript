@@ -197,18 +197,7 @@ button.addEventListener('click', gato.miar.bind(gato) );
 
 ```
 
+### Conclusão
+
 Concluimos que o this faz referencia contexto em que é executado e que através da função `bind` podemos vincular um novo contexto a uma função.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
