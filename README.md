@@ -6,7 +6,7 @@
 
 # Sumário
 * 1 - [`this` e `bind`](https://github.com/lucasluz99/Criacao-de-objetos-em-JavaScript/blob/master/this-bind.md)
-* 2 - Prototypes
+* 2 - [Prototypes](https://github.com/lucasluz99/Criacao-de-objetos-em-JavaScript/blob/master/prototype.md)
 * 3 - A palavra-chave `new`
 * 4 - `__proto__` vs prototype
 * 5 - `Object.create()`
