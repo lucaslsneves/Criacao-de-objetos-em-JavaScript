@@ -200,9 +200,14 @@ Devido a isto o que será impresso é 'Miau'.
 
 Sei que o último exemplo citado pode ter parecido um pouco confuso,a primeira vista,mas com ele foi possível entender __bem__ como os prototypes funcionam.
 
+É importante entender que prototypes são 
+
+
 ### Conclusão
 
-Concluimos que os prototypes são a forma com que o JavaScript lida com a herança entre objetos e que há uma cadeia de prototypes,se esta cadeia for muito grande poderá haver um problema de performace pois o JS terá que fazer várias buscas e ler vários objetos,verificando em cada um deles,se existe a propriedade a ser utilizada.
+Concluimos que os prototypes são apenas uma forma de dizer que caso não exista determinada propriedade em um objeto procure esta propriedade em outro objeto.
+
+
 
 
 
