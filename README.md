@@ -9,5 +9,5 @@
 * 2 - [Prototypes](https://github.com/lucasluz99/Criacao-de-objetos-em-JavaScript/blob/master/prototype.md)
 * 3 - [A palavra-chave `new`](https://github.com/lucasluz99/Criacao-de-objetos-em-JavaScript/blob/master/new-keyword.md)
 * 4 - [`__proto__` vs prototype](https://github.com/lucasluz99/Criacao-de-objetos-em-JavaScript/blob/master/proto-prototype.md)
-* 5 - `Object.create()`
+* 5 - [`Object.create()`](https://github.com/lucasluz99/Criacao-de-objetos-em-JavaScript/blob/master/Object-create.md)
 * 6 - Palvara reservada `Class`
